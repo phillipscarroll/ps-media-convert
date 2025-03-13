@@ -2,7 +2,7 @@
 
 This powershell program will look at your media and shrink the filesize, it provides log files, an html status page showing how much data has been saved.
 
-You will need to download HandBrakeCLI and ffmprg.
+You will need to download HandBrakeCLI and ffmpeg.
 
 ## Variables you can edit
 
